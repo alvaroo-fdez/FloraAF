@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Flora</string>
-    <string name="nombre">nombre</string>
-    <string name="add">ADD</string>
-    <string name="introduce_un_nombre">Introduce un nombre</string>
-    <string name="a_ade_una_flora">AÑADE UNA FLORA</string>
-    <string name="edit">EDIT</string>
-</resources>
