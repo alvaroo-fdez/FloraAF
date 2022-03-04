@@ -7,13 +7,17 @@ Se nos permite la edición y el borrado de las mismas
 
 Podemos observar una aplicación principial con una lista de las últimas floras incluidas, pudiendo actualizarlas con un resfreshLayout y editarlas seleccionando cualquiera de ellas.
 
+![listaFloras](https://user-images.githubusercontent.com/91118214/156676954-3109804f-df32-4de2-ac57-7b7488ff88cf.PNG)
+
 ### Añadiendo floras 📋
 
 Tenemos en cuenta a la hora de añadir tanto una flora como una imagen, que sean por separado y con su propia descripción, enlazandolas por una ID única.
 
-```
-Da un ejemplo
-```
+![añadiendoflora](https://user-images.githubusercontent.com/91118214/156677352-920f091c-f75e-4458-8b08-de72ce38479a.PNG) ![añadiendoimagen](https://user-images.githubusercontent.com/91118214/156677356-267d5a2c-8d39-4a7a-a641-e4a46a2918f3.PNG)
+
+
+
+
 
 ## Construido con 🛠️
 
